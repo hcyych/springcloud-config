@@ -1,2 +1,2 @@
-version: 2
-text: dev
+config
+  info: master dev version1
